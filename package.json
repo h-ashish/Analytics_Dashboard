@@ -16,6 +16,8 @@
     "apexcharts": "^3.27.3",
     "axios": "^0.21.1",
     "clsx": "^1.1.1",
+    "dotenv": "^14.2.0",
+    "firebase": "^9.6.3",
     "history": "^5.0.0",
     "moment": "^2.29.1",
     "prop-types": "^15.7.2",
